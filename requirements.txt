@@ -1,0 +1,5 @@
+ollama
+mlx
+mlx-whisper
+chonkie
+tiktoken
